@@ -1,7 +1,8 @@
 # OPRECOMP
 
-This is the Open Transprecision Computing project, a joint venture between [IBM], [ETH], [CEA], [UNIPG], [UNIBO], [CINECA], [UJI], [QUB], [GWT], and [TUKL].
+This is the Open [Transprecision Computing project], a joint venture between [IBM], [ETH], [CEA], [UNIPG], [UNIBO], [CINECA], [UJI], [QUB], [GWT], and [TUKL].
 
+[Transprecision Computing project]: http://oprecomp.eu/ 
 [IBM]: https://www.research.ibm.com/labs/zurich/
 [ETH]: http://www.iis.ee.ethz.ch/
 [CEA]: http://www.cea.fr/
@@ -13,8 +14,9 @@ This is the Open Transprecision Computing project, a joint venture between [IBM]
 [GWT]: http://www.greenwaves-technologies.com/
 [TUKL]: https://www.uni-kl.de/
 
-OPRECOMP is a 4-year research project funded under the EU Framework Horizon 2020 – Re Program Future and Emerging Technologies ([FET](http://cordis.europa.eu/programme/rcn/700395_en.html)) Proactive Initiative: [emerging themes and communities](http://cordis.europa.eu/fp7/ict/fet-proactive/minecc_en.html).
+[OPRECOMP] is a 4-year research project funded under the EU Framework Horizon 2020 – Re Program Future and Emerging Technologies ([FET](http://cordis.europa.eu/programme/rcn/700395_en.html)) Proactive Initiative: [emerging themes and communities](http://cordis.europa.eu/fp7/ict/fet-proactive/minecc_en.html).
 
+[OPRECOMP]:  http://oprecomp.eu/ 
 
 ## Contents
 
