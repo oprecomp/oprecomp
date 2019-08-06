@@ -26,6 +26,8 @@ This is the main repository of the OPRECOMP project. Individual deliverables and
 - [oprecomp/FloatX](https://github.com/oprecomp/FloatX)
 - [oprecomp/flexfloat](https://github.com/oprecomp/flexfloat) and [oprecomp/flexfloat-benchmarks](https://github.com/oprecomp/flexfloat-benchmarks)
 - [oprecomp/HLS_BLSTM](https://github.com/oprecomp/HLS_BLSTM)
+- [oprecomp/DRAMSpec](https://github.com/oprecomp/DRAMSpec)
+- [oprecomp/RRAMSpec](https://github.com/oprecomp/RRAMSpec)
 
 
 ## Abstract
