@@ -22,13 +22,30 @@ This is the Open [Transprecision Computing project], a joint venture between [IB
 
 This is the main repository of the OPRECOMP project. Individual deliverables and development is performed in separate repositories, as follows:
 
-- [oprecomp/micro-benchmarks](https://github.com/oprecomp/micro-benchmarks): A collection of benchmarks used throughout the project to assess the impact of transprecision techniques on a broad range of application fields.
-- [oprecomp/FloatX](https://github.com/oprecomp/FloatX)
-- [oprecomp/flexfloat](https://github.com/oprecomp/flexfloat) and [oprecomp/flexfloat-benchmarks](https://github.com/oprecomp/flexfloat-benchmarks)
-- [oprecomp/HLS_BLSTM](https://github.com/oprecomp/HLS_BLSTM)
-- [oprecomp/DRAMSpec](https://github.com/oprecomp/DRAMSpec)
-- [oprecomp/RRAMSpec](https://github.com/oprecomp/RRAMSpec)
-
+- [oprecomp/micro-benchmarks](https://github.com/oprecomp/micro-benchmarks):
+  A collection of benchmarks used throughout the project to assess the impact of transprecision techniques on a broad range of application fields.
+- [oprecomp/FloatX](https://github.com/oprecomp/FloatX):
+  Header-only C++ library for low precision floating point type emulation. 
+- [oprecomp/flexfloat](https://github.com/oprecomp/flexfloat) and [oprecomp/flexfloat-benchmarks](https://github.com/oprecomp/flexfloat-benchmarks):
+  C library for the emulation of reduced-precision floating point types
+- [oprecomp/HLS_BLSTM](https://github.com/oprecomp/HLS_BLSTM):
+  The community version of HLS_BLSTM (A BLSTM FPGA accelerator of an OCR appilcation, using CAPI/SNAP)
+- [oprecomp/DRAMSpec](https://github.com/oprecomp/DRAMSpec):
+  A DRAM Current and Timing Generator 
+- [oprecomp/RRAMSpec](https://github.com/oprecomp/RRAMSpec):
+  An RRAM Area, Energy and Timing Generator 
+- [oprecomp/fp-soft](https://github.com/oprecomp/fp-soft):
+  Floating point implementation of multiplication and addition for processor with variable mantissa adaptation.
+- [oprecomp/StaticFPTuner](https://github.com/oprecomp/StaticFPTuner):
+  A python module for statically tuning the precision of floating point variables.
+- [oprecomp/kwpilot-doc](https://github.com/oprecomp/kwpilot-doc):
+  Documentation and tutorials for OPRECOMP kwpilot demonstrator.
+- [oprecomp/oc-accel-tp](https://github.com/oprecomp/oc-accel-tp):
+  OpenCAPI Acceleration Framework: develop an accelerator with OpenCAPI technology.
+- [oprecomp/DDR4_controller](https://github.com/oprecomp/DDR4_controller):
+  A DDR4 memory controller.
+- [pulp-platform/fpnew](https://github.com/pulp-platform/fpnew):
+  Configurable Floating-Point Unit with Transprecision Capabilities
 
 ## Abstract
 
