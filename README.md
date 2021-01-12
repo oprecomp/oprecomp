@@ -46,7 +46,9 @@ This is the main repository of the OPRECOMP project. Individual deliverables and
   A DDR4 memory controller.
 - [pulp-platform/fpnew](https://github.com/pulp-platform/fpnew):
   Configurable Floating-Point Unit with Transprecision Capabilities
-
+- [DRAMSys 4.0](https://github.com/tukl-msd/DRAMSys):
+  a flexible DRAM subsystem design space exploration framework based on SystemC TLM-2.0
+  
 ## Abstract
 
 Guaranteed numerical precision of each elementary step in a complex computation has been the mainstay of traditional computing systems for many years. This era, fueled by Moore's law and the constant exponential improvement in computing efficiency, is at its twilight: from tiny nodes of the Internet-of-Things, to large HPC computing centers, sub-picoJoule/operation energy efficiency is essential for practical realizations. To overcome the “power wall”, a shift from traditional computing paradigms is now mandatory.
