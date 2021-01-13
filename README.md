@@ -48,6 +48,8 @@ This is the main repository of the OPRECOMP project. Individual deliverables and
   Configurable Floating-Point Unit with Transprecision Capabilities
 - [DRAMSys 4.0](https://github.com/tukl-msd/DRAMSys):
   a flexible DRAM subsystem design space exploration framework based on SystemC TLM-2.0
+- [DynIR](https://github.com/oprecomp/DynIR):
+  Header-only C++ library and source code for iterative refinement using dynamic precision out of single, double and double-double precision.  
   
 ## Abstract
 
